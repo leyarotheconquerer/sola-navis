@@ -1,1 +1,5 @@
 *.kra~
+.vs/
+Binaries/
+Intermediate/
+Saved/
