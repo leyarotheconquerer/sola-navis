@@ -1,4 +1,5 @@
 *.kra~
+*.blend[0-9]
 .vs/
 Binaries/
 Intermediate/
