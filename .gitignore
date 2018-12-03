@@ -1,7 +1,9 @@
 *.kra~
+*.kra-autosave.*
 *.png~
 *.blend[0-9]
 .vs/
 Binaries/
+Build/
 Intermediate/
 Saved/
